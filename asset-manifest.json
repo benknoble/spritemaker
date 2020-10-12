@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/spritemaker/static/css/main.2e23bceb.chunk.css",
+    "main.js": "/spritemaker/static/js/main.33ae392e.chunk.js",
+    "main.js.map": "/spritemaker/static/js/main.33ae392e.chunk.js.map",
+    "runtime-main.js": "/spritemaker/static/js/runtime-main.ab2362e5.js",
+    "runtime-main.js.map": "/spritemaker/static/js/runtime-main.ab2362e5.js.map",
+    "static/js/2.d370b6d5.chunk.js": "/spritemaker/static/js/2.d370b6d5.chunk.js",
+    "static/js/2.d370b6d5.chunk.js.map": "/spritemaker/static/js/2.d370b6d5.chunk.js.map",
+    "index.html": "/spritemaker/index.html",
+    "precache-manifest.a9842a23b9477ba94c90c990db9be581.js": "/spritemaker/precache-manifest.a9842a23b9477ba94c90c990db9be581.js",
+    "service-worker.js": "/spritemaker/service-worker.js",
+    "static/css/main.2e23bceb.chunk.css.map": "/spritemaker/static/css/main.2e23bceb.chunk.css.map",
+    "static/js/2.d370b6d5.chunk.js.LICENSE.txt": "/spritemaker/static/js/2.d370b6d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab2362e5.js",
+    "static/js/2.d370b6d5.chunk.js",
+    "static/css/main.2e23bceb.chunk.css",
+    "static/js/main.33ae392e.chunk.js"
+  ]
+}
